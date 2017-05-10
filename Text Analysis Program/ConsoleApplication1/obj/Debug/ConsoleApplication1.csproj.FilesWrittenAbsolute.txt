@@ -1,0 +1,8 @@
+/Volumes/KAT/Computer Science/Programming and Data structures/Part B/Text Analysis Program/ConsoleApplication1/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Volumes/KAT/Computer Science/Programming and Data structures/Part B/Text Analysis Program/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe.config
+/Volumes/KAT/Computer Science/Programming and Data structures/Part B/Text Analysis Program/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe.mdb
+/Volumes/KAT/Computer Science/Programming and Data structures/Part B/Text Analysis Program/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Volumes/KAT/Computer Science/Programming and Data structures/Part B/Text Analysis Program/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Volumes/KAT/Computer Science/Programming and Data structures/Part B/Text Analysis Program/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Volumes/KAT/Computer Science/Programming and Data structures/Part B/Text Analysis Program/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe.mdb
+/Volumes/KAT/Computer Science/Programming and Data structures/Part B/Text Analysis Program/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb

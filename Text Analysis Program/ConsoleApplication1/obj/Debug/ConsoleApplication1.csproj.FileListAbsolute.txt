@@ -1,0 +1,9 @@
+c:\users\kat\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\kat\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\kat\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\kat\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\kat\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\kat\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Computer Science\Programming and Data structures\Part B\Text Analysis Program\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Computer Science\Programming and Data structures\Part B\Text Analysis Program\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Computer Science\Programming and Data structures\Part B\Text Analysis Program\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
